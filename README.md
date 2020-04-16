@@ -13,7 +13,7 @@ Gibberish to Hebrew converter for Rhino 6, Created by Tom Melloul, April 2020.
 # Source Code Imports
       # python-bidi
             Copyright (C) 2008-2010 Yaacov Zamir <kzamir_a@walla.co.il>
-            Copyright (C) 2010-2015 Meir kriheli <mkriheli@gmail.com>.
+            Copyright (C) 2010-2015 Meir kriheli <mkriheli@gmail.com>
       
       # six
-            Copyright (c) 2010-2020 Benjamin Peterson <benjamin@python.org>.
+            Copyright (c) 2010-2020 Benjamin Peterson <benjamin@python.org>
