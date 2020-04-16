@@ -1,13 +1,17 @@
 # Gib2Heb
 
-Gibberish to Hebrew converter for Rhino 6, Created by Tom Melloul, April 2020.
+Gibberish to Hebrew converter for Rhino 6, Created by Tom Melloul (<tom@tommelloul.com>)., April 2020.
 
 # Installation
 
 1.  Download "Rhino Plugin" folder's contents.
-2.  Drag and drop RHP file (Plugin)
-3.  Drag and Drop RUI file (Toolbar)
-4.  You're good to go!
+2.  Drag and drop RHP file to install plugin.
+3.  Optional: Drag and drop RUI file to create custom toolar.
+
+# Usage:
+
+1.    Use command alias Gib2Heb (or press toolbar icon) and select text objects to convert.
+2.    Please email all bug and error reports to <tom@tommelloul.com>.
 
 
 # Source Code Imports
